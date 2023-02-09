@@ -3,7 +3,7 @@
 <h2>Projects</h2>
 
 <h3>0 Where am I?</h3>
-<p>Is a script that prints the absolute path name of the current working directory. Chilsplay.</p>
+<p>Is a script that prints the absolute path name of the current working directory. Childsplay.</p>
 <h3>1. What’s in there?</h3>
 <p>Is a script that displays the contents list of your current directory.😎</p>
 <h3>2. There is no place like home</h3>
@@ -33,8 +33,17 @@
 <h3>14. Copy HTML files</h3>
 <p>Creates a script that copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory..</p>
 
-
-
+<h2>Extras</h2>
+<h3>15. Let’s move</h3>
+<p>Creates a script that moves all files beginning with an uppercase letter to the directory /tmp/u.ni sawa.</p>
+<h3>16. Clean Emacs</h3>
+<p>Create a script that deletes all files in the current working directory that end with the character ~.</p>
+<h3>17. Tree</h3>
+<p>Creates a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.🌲</p>
+<h3>18. Life is a series of commas, not periods</h3>
+<p>incomplete, coming back to it.😴</p>
+<h3>19. File type: School</h3>
+<p>incomplete, coming back to it. 😴</p>
 
 
 
